@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="api" />
+        <module name="auth" />
+        <module name="auth-client" />
+        <module name="auth-common" />
+        <module name="auth-server" />
+        <module name="cache" />
+        <module name="center" />
+        <module name="common" />
+        <module name="config" />
+        <module name="gate" />
+        <module name="gate-ratelimit" />
+        <module name="gate-server" />
+        <module name="generate" />
+        <module name="generator" />
+        <module name="monitor" />
+        <module name="register" />
+        <module name="sidebar" />
+        <module name="sidebar-client-demo" />
+        <module name="sidebar-server" />
+        <module name="sidebarserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="api" target="1.8" />
+      <module name="auth" target="1.8" />
+      <module name="auth-client" target="1.8" />
+      <module name="auth-common" target="1.6" />
+      <module name="auth-server" target="1.6" />
+      <module name="cache" target="1.8" />
+      <module name="center" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="gate" target="1.8" />
+      <module name="gate-ratelimit" target="1.8" />
+      <module name="gate-server" target="1.8" />
+      <module name="gateway" target="1.5" />
+      <module name="gatewayratelimit" target="1.5" />
+      <module name="generate" target="1.5" />
+      <module name="generator" target="1.8" />
+      <module name="micro" target="1.8" />
+      <module name="microcache" target="1.8" />
+      <module name="monitor" target="1.8" />
+      <module name="register" target="1.8" />
+      <module name="sidebar" target="1.8" />
+      <module name="sidebar (1)" target="1.5" />
+      <module name="sidebar-client-demo" target="1.8" />
+      <module name="sidebar-server" target="1.8" />
+      <module name="sidebarserver" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

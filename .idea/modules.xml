@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth.iml" filepath="$PROJECT_DIR$/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth-client/auth-client.iml" filepath="$PROJECT_DIR$/auth/auth-client/auth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth-common/auth-common.iml" filepath="$PROJECT_DIR$/auth/auth-common/auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/auth/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/center.iml" filepath="$PROJECT_DIR$/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate/gate.iml" filepath="$PROJECT_DIR$/gate/gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate/gate-ratelimit/gate-ratelimit.iml" filepath="$PROJECT_DIR$/gate/gate-ratelimit/gate-ratelimit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gate/gate-server/gate-server.iml" filepath="$PROJECT_DIR$/gate/gate-server/gate-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generator/generator.iml" filepath="$PROJECT_DIR$/generator/generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.iml" filepath="$PROJECT_DIR$/micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebar/sidebar.iml" filepath="$PROJECT_DIR$/sidebar/sidebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebar/sidebar-client-demo/sidebar-client-demo.iml" filepath="$PROJECT_DIR$/sidebar/sidebar-client-demo/sidebar-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebar/sidebar-server/sidebar-server.iml" filepath="$PROJECT_DIR$/sidebar/sidebar-server/sidebar-server.iml" />
+    </modules>
+  </component>
+</project>
